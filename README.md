@@ -13,7 +13,7 @@ Any phone that can run an Android app
 4. Install 
 
 ## How to Use
-At the top half of the screen are the controls that allow the user to modify the time, add a clock, or undo/redo a time change. First, the user can select which clocks to add to the screen by pressing either "+Analog" to add an analog clock or "+Digital" to add a digital clock. Then, the user is able to change the second, minute, hour, day, month, and year of the clock(s). Once the desired time is configured by pressing either (+) to incrememnt a time period or (-) to decrement a time period, the user can press "Update" to update any open clocks. This updated time will also be the time set for any additional clocks added to the screen.
+At the top half of the screen are the controls that allow the user to modify the time, add a clock, or undo/redo a time change. First, the user can select which clocks to add to the screen by pressing either "+Analog" to add an analog clock or "+Digital" to add a digital clock. Then, the user is able to change the second, minute, hour, day, month, and year of the clock(s). Once the desired time is configured by pressing either (+) to incremement a time period or (-) to decrement a time period, the user can press "Update" to update any open clocks. This updated time will also be the time set for any additional clocks added to the screen.
 
 ![ClockControls](https://github.com/madison-yancey/CEG4110HW2/blob/master/Resources/ClockControls.PNG)
 
