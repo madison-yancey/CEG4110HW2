@@ -26,7 +26,7 @@ Clocks were updated from October 11, 2018 to January 1, 2018. Above, the time ch
 
 The bottom half of the screen displays all the clocks in the order in which they were added. The user can have multiple clocks open at the same time, and multiple versions of the same clock. For example, the user can have multiple analog clocks open, multiple digital clocks open, or a combination of both, as seen in the screenshots below. The user can then scroll through and view all the clocks. 
 
-![AnalogClocks](https://github.com/madison-yancey/CEG4110HW2/blob/master/Resources/AnalogClocks.PNG)
+![AnalogClocks](https://github.com/madison-yancey/CEG4110HW2/blob/master/Resources/AddingClocks.PNG)
 ![DigitalClocks](https://github.com/madison-yancey/CEG4110HW2/blob/master/Resources/DigitalClocks.PNG)
 
 ## Built With
